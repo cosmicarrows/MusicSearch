@@ -14,6 +14,8 @@
 		E9FDBD8920CD7C7E0072D361 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9FDBD8720CD7C7E0072D361 /* LaunchScreen.storyboard */; };
 		E9FDBD9420CD7C7E0072D361 /* MusicSearchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FDBD9320CD7C7E0072D361 /* MusicSearchTests.swift */; };
 		E9FDBD9F20CD7C9F0072D361 /* ItunesConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FDBD9E20CD7C9F0072D361 /* ItunesConnection.swift */; };
+		E9FDBDA120CD8AC70072D361 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FDBDA020CD8AC70072D361 /* Album.swift */; };
+		E9FDBDA320CD8BCF0072D361 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FDBDA220CD8BCF0072D361 /* App.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		E9FDBD9320CD7C7E0072D361 /* MusicSearchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicSearchTests.swift; sourceTree = "<group>"; };
 		E9FDBD9520CD7C7E0072D361 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9FDBD9E20CD7C9F0072D361 /* ItunesConnection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItunesConnection.swift; sourceTree = "<group>"; };
+		E9FDBDA020CD8AC70072D361 /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
+		E9FDBDA220CD8BCF0072D361 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,8 @@
 				E9FDBD7E20CD7C7C0072D361 /* AppDelegate.swift */,
 				E9FDBD8020CD7C7C0072D361 /* ViewController.swift */,
 				E9FDBD9E20CD7C9F0072D361 /* ItunesConnection.swift */,
+				E9FDBDA020CD8AC70072D361 /* Album.swift */,
+				E9FDBDA220CD8BCF0072D361 /* App.swift */,
 				E9FDBD8220CD7C7C0072D361 /* Main.storyboard */,
 				E9FDBD8520CD7C7E0072D361 /* Assets.xcassets */,
 				E9FDBD8720CD7C7E0072D361 /* LaunchScreen.storyboard */,
@@ -203,6 +209,8 @@
 				E9FDBD8120CD7C7C0072D361 /* ViewController.swift in Sources */,
 				E9FDBD7F20CD7C7C0072D361 /* AppDelegate.swift in Sources */,
 				E9FDBD9F20CD7C9F0072D361 /* ItunesConnection.swift in Sources */,
+				E9FDBDA320CD8BCF0072D361 /* App.swift in Sources */,
+				E9FDBDA120CD8AC70072D361 /* Album.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
